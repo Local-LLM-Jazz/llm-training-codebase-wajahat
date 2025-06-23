@@ -24,7 +24,7 @@ By combining these techniques, you can efficiently adapt large language models e
 5. [Inference](#inference)
 6. [Progress Report](#progress-report)
 7. [Next Steps](#next-steps)
-8. [Notebook](#Notebook)
+8. [Notebook](#Notebook)(https://github.com/Local-LLM-Jazz/llm-training-codebase-wajahat/blob/main/CPT_LLaMA_Factory_1Per_Pretraining_Instruction_tuning_withLayerFreezingandLora.ipynb)
 
 ## Installation
 
@@ -120,5 +120,5 @@ After CPT, perform two types of instruction tuning:
 
 A Jupyter notebook containing the full pretraining & instruction tuning workflow is available in this repository:
 
-Open the Notebook on GitHub
+[Open the Notebook on GitHub](https://github.com/Local-LLM-Jazz/llm-training-codebase-wajahat/blob/main/CPT_LLaMA_Factory_1Per_Pretraining_Instruction_tuning_withLayerFreezingandLora.ipynb)
   ---
