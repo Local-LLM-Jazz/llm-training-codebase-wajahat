@@ -115,4 +115,9 @@ After CPT, perform two types of instruction tuning:
   output = engine.generate("Translate English to French: Hello world.")
   print(output)
   ```
+  Notebook
+
+A Jupyter notebook containing the full pretraining & instruction tuning workflow is available in this repository:
+
+Open the Notebook on GitHub
   ---
