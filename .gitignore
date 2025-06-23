@@ -1,0 +1,9 @@
+# Ignore the entire LLaMA-Factory directory
+LLaMA-Factory/
+
+# Python virtual environments
+venv/
+.venv/
+env/
+*.pyc
+__pycache__/
