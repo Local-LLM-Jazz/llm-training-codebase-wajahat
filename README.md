@@ -24,6 +24,7 @@ By combining these techniques, you can efficiently adapt large language models e
 5. [Inference](#inference)
 6. [Progress Report](#progress-report)
 7. [Next Steps](#next-steps)
+8. [Notebook](#Notebook)
 
 ## Installation
 
@@ -115,7 +116,7 @@ After CPT, perform two types of instruction tuning:
   output = engine.generate("Translate English to French: Hello world.")
   print(output)
   ```
-  Notebook
+## Notebook
 
 A Jupyter notebook containing the full pretraining & instruction tuning workflow is available in this repository:
 
