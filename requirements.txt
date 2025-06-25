@@ -1,0 +1,6 @@
+torch
+bitsandbytes
+datasets
+huggingface_hub
+ipywidgets
+llamafactory
